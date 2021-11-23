@@ -1,5 +1,4 @@
-#atualizando...  
-
+#Atualizando...     
 
 def podio_olimpico(tempo_chegada1, tempo_chegada2, tempo_chegada3):
     if tempo_chegada1 < tempo_chegada2 and tempo_chegada1 < tempo_chegada3:
